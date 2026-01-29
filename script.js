@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const items = document.querySelectorAll(".block, .title");
+    const items = document.querySelectorAll(".quote, .title, .block");
 
     items.forEach((item, index) => {
         item.style.opacity = "0";
