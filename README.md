@@ -1,6 +1,6 @@
 # Goal Awareness
 
-A minimal personal awareness UI designed to stay calm, focused, and intentional throughout the day 💗.
+A minimal personal awareness UI designed to stay calm, focused, and intentional throughout the day  💗.
 
 ## Features
 - Clean, distraction-free UI
@@ -14,4 +14,4 @@ A minimal personal awareness UI designed to stay calm, focused, and intentional 
 - Vanilla JavaScript
 
 ## Why
-I built this product to reduce noise, not to add productivity pressure 🌱.
+I built this product to reduce noise, not to add productivity pressure  🌱.
